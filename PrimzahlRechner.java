@@ -1,8 +1,15 @@
+//Projekt im Rahmen des Videotutorials fuer meine Schueler
+//Klasse 5 (weiterfuehrende Schule)
+
+
+
+
 
 import java.util.*;
 
+
 /**
- * Primzahlrechner
+ * Primzahlrechner. 
  * 
  * @author mathelehrer 
  * @version 1
